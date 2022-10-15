@@ -3,12 +3,14 @@
     "name": "about",
     "path": "/about",
     "component": "/Users/keerzhao/Documents/GitHub/The-Shift/pages/about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_1663fa88"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/keerzhao/Documents/GitHub/The-Shift/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_361bd54d"
   }
 ]
