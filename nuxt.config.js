@@ -37,5 +37,16 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
-}
+  },
+
+  // https://nuxtjs.org/docs/directory-structure/dist/#the-dir-property
+  generate: {
+    dir: "docs",
+  },
+
+  // https://nuxtjs.org/deployments/github-pages/
+  router: {
+    base: "/The-Shift/",
+  },
+
+};
