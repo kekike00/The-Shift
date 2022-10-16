@@ -83,7 +83,7 @@ export default {
         { imgSrc: "img/img_14.jpg"},
         { imgSrc: "img/img_15.jpg"},
         { imgSrc: "img/img_16.jpg"},
-        { imgSrc: "img/img_17.png"},
+        { imgSrc: "img/img_17.jpg"},
         { imgSrc: "img/img_18.jpg"},
         { imgSrc: "img/img_19.jpg"},
         { imgSrc: "img/img_20.jpg"},
