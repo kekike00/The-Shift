@@ -82,6 +82,16 @@ export default {
         { imgSrc: "img/img_13.jpg"},
         { imgSrc: "img/img_14.jpg"},
         { imgSrc: "img/img_15.jpg"},
+        { imgSrc: "img/img_16.jpg"},
+        { imgSrc: "img/img_17.png"},
+        { imgSrc: "img/img_18.jpg"},
+        { imgSrc: "img/img_19.jpg"},
+        { imgSrc: "img/img_20.jpg"},
+        { imgSrc: "img/img_21.jpg"},
+        { imgSrc: "img/img_22.jpg"},
+        { imgSrc: "img/img_23.jpg"},
+        { imgSrc: "img/img_24.jpg"},
+        { imgSrc: "img/img_25.jpg"},
       ]
     };
   },
